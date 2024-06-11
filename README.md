@@ -38,7 +38,7 @@ The Sequential Shifter project utilizes the following components:
 
 <!-- Image Placeholder for 3D Printed Housing -->
 <p align="center">
-  <img src="readme_files/main_housig.png" alt="sequential_shifter_housing" width="400" />
+  <img src="readme_files/main_housing.png" alt="sequential_shifter_housing" width="400" />
 </p>
 
 <p align="center">
