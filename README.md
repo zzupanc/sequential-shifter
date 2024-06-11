@@ -3,7 +3,7 @@
 Sequential shifter is an open-source project aimed at creating a sequential shifting mechanism using Arduino, micro switches, and a 3D printer. This project allows enthusiasts to build their own sequential shifter for sim racing or other applications where sequential gear shifting is desired.
 
 <p align="center">
-  <img src="readme_files/assembly.png" alt="sequential_shifter_housing" width="400" />
+  <img src="readme_files/assembly.png" alt="sequential_shifter_housing" width="600" />
 </p>
 
 ## Table of Contents
