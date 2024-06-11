@@ -40,7 +40,7 @@ The Sequential Shifter project utilizes the following components:
 
 
 <p align="center">
-  <img src="readme_files/assem.png" alt="sequential_shifter_housing" width="400" />
+  <img src="readme_files/assem.png" alt="sequential_shifter_housing" width="600" />
 </p>
 
 ## How It Works
