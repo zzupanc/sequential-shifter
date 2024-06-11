@@ -12,7 +12,7 @@ Sequential shifter is an open-source project aimed at creating a sequential shif
 - [Components Used](#components-used)
 - [How It Works](#how-it-works)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)s
+- [Usages](#usages)
 - [Contributing](#contributing)
 
 
@@ -75,7 +75,7 @@ To set up the Sequential Shifter system, follow these steps:
 5. Run the Python script to start listening for serial messages from the Arduino.
 
 
-## Usage
+## Usages
 
 Once the Sequential Shifter system is set up, users can interact with the micro switches to perform sequential gear shifts. Pressing one switch will trigger an upshift, while pressing the other will trigger a downshift.
 
